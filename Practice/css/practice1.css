@@ -1,0 +1,46 @@
+
+
+
+h1 {
+	
+  color: black;
+  text-align: center;
+  font-size: 60px;
+  border-bottom: 10px solid currentColor;
+  display: center;
+  line-height: 1.25;
+  
+}
+
+h2 {
+
+  color: navy;
+  font-size: 40px;
+  border-bottom: 5px solid currentColor;
+  line-height: 1.25;
+  
+}
+
+p {
+	
+  font-size: 20px;
+  text-indent: 50px;
+
+}
+
+ul {
+	
+  font-size: 20px;
+  list-style-position: inside;
+  
+}
+
+div {
+  border: 1px solid black;
+  margin-top: 100px;
+  margin-bottom: 100px;
+  margin-right: 150px;
+  margin-left: 80px;
+  background-color: lightblue;
+}
+

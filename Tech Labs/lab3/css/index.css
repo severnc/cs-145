@@ -1,0 +1,45 @@
+
+/* Written by: Riley Slater*/
+
+
+h1 {
+  font-family: sans-serif;
+  text-align: center;
+  height: 50px;  
+  background-color: #e6e6be;
+}
+
+h2 {
+  font-family: serif;
+  font-style: italic;
+  font-variant: small-caps;
+  letter-spacing: 5px;
+  height: 30px;
+  background-color: #ff0000;
+}
+
+body {
+  background-image: url("../images/prettyPattern.gif");
+}
+
+ul {
+  letter-spacing: 5px;
+}
+
+p {
+  font-weight: 900;
+  text-decoration: overline;
+}
+
+a:hover {
+  color: red;
+  background-color: #ffff96;
+  text-transform: uppercase;
+  text-decoration: none;
+}
+
+b {
+  color: blue;
+}
+
+

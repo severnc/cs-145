@@ -1,0 +1,40 @@
+
+/*Written by: Riley Slater*/
+
+
+body {
+  background-color: #DEF2F7;
+  padding: 50px;
+}
+
+h1 {
+  text-align: center;
+  font-family: 'Secular One', sans-serif;
+  border-bottom: 3px solid black;
+  color: #F95D51;
+}
+
+h2, h3, h4, h5 {
+  font-family: 'Secular One', sans-serif;
+  text-align: center;
+  color: #F95D51;
+}
+
+p {
+  font-family: 'Noto Serif', serif;
+  font-size: 15px;
+  line-height: 1.5;
+  white-space: wrap;
+  margin-left: 240;
+  margin-right: 240;
+  text-align: center;
+}
+
+ul {
+  font-family: 'Noto Serif', serif;
+  font-size: 15px;
+  line-height: 1.5;
+  margin-left: 240;
+  margin-right: 240;
+  text-align: left;
+)
