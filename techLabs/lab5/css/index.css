@@ -1,3 +1,33 @@
 
+h1 {
+	border-bottom: 5px solid #0000ff;
+	text-align: center;
+}
+
+h2 {
+	color: #0000ff;
+	border-bottom: 3px solid #0000ff;
+	
+}
+
+p {
+	text-indent: 25px;
+}
+
+#rightDiv {
+	float: right;
+	width: 25%;
+	border: 2px solid #0000ff;
+	padding: 0px;
+	margin: 0px;
+}
+
+#leftDiv {
+	float: left;
+	text-indent: 25px;
+	width: 74.5%;
+	padding: 0px;
+	margin: 0px;
+}
 
 
