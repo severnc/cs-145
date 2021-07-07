@@ -1,13 +1,15 @@
 
+/*Written by: Riley Slater and Severn Crabtree*/
+
 h1 {
-	border-bottom: 5px solid #0000ff;
+	color: #ffffff;
+	background-color: #000000;
+	border-bottom: 5px solid #914380;
 	text-align: center;
 }
 
 h2 {
-	color: #0000ff;
-	border-bottom: 3px solid #0000ff;
-	
+	border-bottom: 3px solid #b3da56;
 }
 
 p {
@@ -15,18 +17,21 @@ p {
 }
 
 #rightDiv {
+	color: #09606e;
 	float: right;
 	width: 25%;
-	border: 2px solid #0000ff;
+	border: 2px solid #914380;
 	padding: 0px;
 	margin: 0px;
 }
 
 #leftDiv {
+	color: #30abba;
 	float: left;
 	width: 74.5%;
 	padding: 0px;
 	margin: 0px;
+	margin-top: -20px;
 }
 
 
