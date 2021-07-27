@@ -3,6 +3,10 @@ body {
 	margin: 25px;
 }
 
+p{
+	font-family: 'Josefin Slab', serif;
+}
+
 /*Left side of the about us page*/
 
 .leftFloat {
@@ -16,8 +20,12 @@ body {
 	margin-top: 100px;
 }
 
-.leftFloat h2 {
-	margin-top: 15px;
+.leftFloat h1{
+	font-family: 'Josefin Slab', serif;
+}
+
+.leftFloat p, h2{
+	font-family: 'Josefin Slab', serif;
 }
 
 /*Right side of the about us page*/
