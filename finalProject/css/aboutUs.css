@@ -1,0 +1,44 @@
+
+body {
+	margin: 25px;
+}
+
+/*Left side of the about us page*/
+
+.leftFloat {
+	display: block;
+	float: left;
+	width: 300px;
+	text-align: center;
+}
+
+.leftFloat img {
+	width: 380px;
+	margin-top: 100px;
+}
+
+.leftFloat h2 {
+	margin-top: 15px;
+}
+
+/*Right side of the about us page*/
+
+.rightFloat {
+	display: block;
+	float: right;
+	width: 600px;
+}
+
+.rightFloat img {
+	float: right;
+	width: 50%;
+	padding-right: 50px;
+}
+
+.rightFloat p {
+	clear: both;
+	width: 800px;
+	text-align: center;
+	padding-top: 100px;
+	line-height: 50px;
+}
